@@ -14,6 +14,7 @@ const IndexPage = () => (
       <img src="/static/namaozi.png" alt="namaozi.png" />
     </a>
     <p>魚類です。</p>
+    <a href="utube.com/channel/UCUNR6nW28Orcje8sJyF7hbA">YouTube</a>
   </div>
 )
 
