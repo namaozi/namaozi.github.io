@@ -9,7 +9,7 @@ const Header = () => (
   <div
     style={{
       background: 'skyblue',
-      marginBottom: '1.45rem',
+      marginBottom: '0.45rem',
     }}
   >
     <div
@@ -22,32 +22,56 @@ const Header = () => (
     >
       <h1 style={{
         margin: 0,
-        fontSize: '3.5rem',
+        fontSize: '1.5rem',
+        color: 'bisque'
       }}>
         <Link
           to="/"
           style={{
+            margin: '10px',
             color: 'white',
             textDecoration: 'none',
           }}
         >
-          namaozi
+          profile
+        </Link>
+        /
+        <Link
+          to="/movie"
+          style={{
+            margin: '10px',
+            color: 'white',
+            textDecoration: 'none',
+          }}
+        >
+          movie
+        </Link>
+        /
+        <Link
+          to="/score"
+          style={{
+            margin: '10px',
+            color: 'white',
+            textDecoration: 'none',
+          }}
+        >
+          score
         </Link>
       </h1>
     </div>
   </div>
 )
 
-const TemplateWrapper = ({ children }) => (
+const TemplateWrapper = ({children}) => (
   <div>
     <Helmet
       title="namaozi's page"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        {name: 'description', content: 'Sample'},
+        {name: 'keywords', content: 'sample, something'},
       ]}
     />
-    <Header />
+    <Header/>
     <div
       style={{
         margin: '0 auto',
@@ -59,10 +83,10 @@ const TemplateWrapper = ({ children }) => (
       {children()}
     </div>
   </div>
-)
+);
 
 TemplateWrapper.propTypes = {
   children: PropTypes.func,
-}
+};
 
-export default TemplateWrapper
+export default TemplateWrapper;
