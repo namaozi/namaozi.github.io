@@ -1,37 +1,53 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-0a219f95da24bf19ddeb.js",
-      "component---src-pages-index-js-0a219f95da24bf19ddeb.js.map"
+      "component---src-pages-index-js-5e5c17f66d940061933e.js",
+      "component---src-pages-index-js-5e5c17f66d940061933e.js.map"
+    ],
+    "path---score": [
+      "path---score-1db04e5021b40904aca6.js",
+      "path---score-1db04e5021b40904aca6.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-21a6300a639709063f48.js",
-      "component---src-layouts-index-js-21a6300a639709063f48.js.map"
+      "component---src-layouts-index-js-723ebc325e34fb510cad.js",
+      "component---src-layouts-index-js-723ebc325e34fb510cad.js.map"
     ],
     "path---index": [
       "path---index-1db04e5021b40904aca6.js",
       "path---index-1db04e5021b40904aca6.js.map"
     ],
+    "component---src-pages-score-js": [
+      "component---src-pages-score-js-1e8420594ecd1d6105ad.js",
+      "component---src-pages-score-js-1e8420594ecd1d6105ad.js.map"
+    ],
+    "component---src-pages-movie-js": [
+      "component---src-pages-movie-js-2d0bd4cddbe9a53c7ae6.js",
+      "component---src-pages-movie-js-2d0bd4cddbe9a53c7ae6.js.map"
+    ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-bafe40c35a3beb6802f0.js",
-      "component---src-pages-404-js-bafe40c35a3beb6802f0.js.map"
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-3a2aed4770495289538d.js",
-      "commons-3a2aed4770495289538d.js.map"
+      "commons-8ae36d88cc6473a8974b.js",
+      "commons-8ae36d88cc6473a8974b.js.map"
     ],
     "path---404-html": [
       "path---404-html-1db04e5021b40904aca6.js",
       "path---404-html-1db04e5021b40904aca6.js.map"
     ],
+    "path---movie": [
+      "path---movie-1db04e5021b40904aca6.js",
+      "path---movie-1db04e5021b40904aca6.js.map"
+    ],
     "app": [
-      "app-880dbcf86fc060bae15c.js",
+      "app-bfcb7061d64d280d9cce.js",
       "build-js-styles.css",
-      "app-880dbcf86fc060bae15c.js.map",
+      "app-bfcb7061d64d280d9cce.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
